@@ -6,7 +6,7 @@
 .alcache/
 __pycache__/
 
-
+.env
 
 #Symbols folder
 .alpackages/
